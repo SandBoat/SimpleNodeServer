@@ -13,7 +13,6 @@ git clone https://github.com/SandBoat/SimpleNodeServer.git
 ### 运行
 
 ```
-cd server
 npm start
 ```
 
