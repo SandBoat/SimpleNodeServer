@@ -4,15 +4,23 @@
 
 ## 开始
 
-### 安装
+### 安装脚手架
 
 ```
-git clone https://github.com/SandBoat/SimpleNodeServer.git
+npm install -g simplenodeserver-cli
+```
+
+### 初始化项目
+
+```
+sns-cli init package-name
 ```
 
 ### 运行
 
 ```
+cd package-name
+npm install
 npm start
 ```
 
