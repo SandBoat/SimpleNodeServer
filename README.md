@@ -47,7 +47,7 @@ request[GET]: /crawler/content
 
 ### 配置类
 
-- [ ] npm 打包
+- [x] npm 打包（提供脚手架）
 - [ ] 服务选配
 - [x] 路由
 
